@@ -24,3 +24,19 @@ h3 {
  img{
     width: 100%;
  }
+
+ p{
+    color:#042c5c;
+    margin-left: 240px;
+    margin-right: 240px;
+    background-color: #fbb415;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+ }
+
+ li{
+    color:#042c5c;
+    margin-left: 240px;
+    margin-right: 240px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
