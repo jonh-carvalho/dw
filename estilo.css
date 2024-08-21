@@ -1,0 +1,26 @@
+h1{
+    color:#042c5c;
+    font-size: 60px;
+}
+
+
+h2 {
+    color:#fbb415;
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+h3 { 
+    color:#042c5c;
+    margin-left: 40px;
+    font-size: 30px;
+ }
+ h4 { 
+    color:#042c5c;
+    margin-left: 60px;
+    font-size: 20px;
+ }
+
+ img{
+    width: 100%;
+ }
